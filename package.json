@@ -1,0 +1,26 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblemberg/chess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mblemberg/chess/issues"
+  },
+  "homepage": "https://github.com/mblemberg/chess#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.5",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "lite-server": "^2.6.1"
+  }
+}
